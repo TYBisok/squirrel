@@ -9,9 +9,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON) # Require C++17 support.
 # SET(CMAKE_CXX_COMPILER /usr/bin/clang++-12)
 
 project(
-    Dummy
+    Squirrel
     VERSION 0.1.0
-    DESCRIPTION "Modern C++ project template"
+    DESCRIPTION "Collect code like a squirrel hoards food."
     LANGUAGES C CXX
 )
 

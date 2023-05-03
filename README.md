@@ -1,1 +1,3 @@
-# cpp-template
+# SQUIRREL
+
+Collect code like a squirrel hoards food.
